@@ -753,12 +753,12 @@ local Levels = {
     },
     Monkey = {
         Enemy = "Monkey",
-        LowestLevel = 14,
+        LowestLevel = 10,
         MaxLevel = 20
     },
     Gorilla = {
         Enemy = "Gorilla",
-        LowestLevel = 20,
+        LowestLevel = 15,
         MaxLevel = 35
     },
     Pirate = {
