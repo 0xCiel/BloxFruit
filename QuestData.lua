@@ -754,7 +754,7 @@ local Levels = {
     Monkey = {
         Enemy = "Monkey",
         LowestLevel = 10,
-        MaxLevel = 20
+        MaxLevel = 15
     },
     Gorilla = {
         Enemy = "Gorilla",
@@ -763,13 +763,13 @@ local Levels = {
     },
     Pirate = {
         Enemy = "Pirate",
-        LowestLevel = 35,
-        MaxLevel = 45
+        LowestLevel = 05,
+        MaxLevel = 40
     },
     Brute = {
         Enemy = "Brute",
-        LowestLevel = 45,
-        MaxLevel = 60
+        LowestLevel = 40,
+        MaxLevel = 55
     },
     Desert_Bandit = {
         Enemy = "Desert Bandit",
